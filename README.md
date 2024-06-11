@@ -12,7 +12,7 @@ O **Ajude as Patinhas** é uma iniciativa destinada a criar uma comunidade de ap
 
 Milhares de animais são abandonados nas ruas todos os dias, sofrendo de fome, doenças e maus-tratos. As protetoras de animais desempenham um papel crucial no resgate e cuidado desses animais, mas muitas vezes enfrentam desafios significativos devido à falta de recursos. O **Ajude as Patinhas** não só melhora a qualidade de vida dos animais, mas também apoia as protetoras em seu trabalho, sensibilizando a comunidade sobre a importância da posse responsável e do combate ao abandono.
 
-## Funcionalidades Essenciais
+## Funcionalidades Essenciais (Ideia inicial. Aberto a sujestões e melhorias)
 
 1. **Cadastro e Gerenciamento de Protetoras**
    - Criação de perfil
@@ -39,7 +39,7 @@ Milhares de animais são abandonados nas ruas todos os dias, sofrendo de fome, d
    - Campanhas de conscientização
    - Integração com redes sociais
 
-## Etapas do Desenvolvimento do Projeto
+## Etapas do Desenvolvimento do Projeto (Esboço. Aberto a sujestões e melhorias)
 
 ### 1. Levantamento de Requisitos
    - Entrevistas com protetoras de animais
