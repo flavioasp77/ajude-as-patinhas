@@ -87,7 +87,7 @@ Agradecemos pelo seu interesse no **Ajude as Patinhas**. Vamos transformar a rea
 
 ## Contato
 
-Para mais informações ou para colaborar com o projeto, entre em contato conosco através do email: contato@ajudeaspatinhas.org
+Para mais informações ou para colaborar com o projeto, entre em contato conosco através do email: flavioasp77@gmail.com ou através do Linkedin: https://www.linkedin.com/in/flavio-anselmo-dos-santos-pires/
 
 ---
 
